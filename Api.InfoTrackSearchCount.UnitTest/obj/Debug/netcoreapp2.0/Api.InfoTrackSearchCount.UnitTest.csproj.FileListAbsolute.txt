@@ -1,0 +1,16 @@
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\bin\Debug\netcoreapp2.0\Api.InfoTrackSearchCount.UnitTest.deps.json
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\bin\Debug\netcoreapp2.0\Api.InfoTrackSearchCount.UnitTest.runtimeconfig.json
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\bin\Debug\netcoreapp2.0\Api.InfoTrackSearchCount.UnitTest.runtimeconfig.dev.json
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\bin\Debug\netcoreapp2.0\Api.InfoTrackSearchCount.UnitTest.dll
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\bin\Debug\netcoreapp2.0\Api.InfoTrackSearchCount.UnitTest.pdb
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\obj\Debug\netcoreapp2.0\Api.InfoTrackSearchCount.UnitTest.csprojResolveAssemblyReference.cache
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\obj\Debug\netcoreapp2.0\Api.InfoTrackSearchCount.UnitTest.csproj.CoreCompileInputs.cache
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\obj\Debug\netcoreapp2.0\Api.InfoTrackSearchCount.UnitTest.AssemblyInfoInputs.cache
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\obj\Debug\netcoreapp2.0\Api.InfoTrackSearchCount.UnitTest.AssemblyInfo.cs
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\obj\Debug\netcoreapp2.0\Api.InfoTrackSearchCount.UnitTest.dll
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\obj\Debug\netcoreapp2.0\Api.InfoTrackSearchCount.UnitTest.pdb
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\bin\Debug\netcoreapp2.0\Api.InoTrackSearchCount.dll
+F:\Projects\InoTrackSearchCount\Api.InfoTrackSearchCount.UnitTest\bin\Debug\netcoreapp2.0\Api.InoTrackSearchCount.pdb

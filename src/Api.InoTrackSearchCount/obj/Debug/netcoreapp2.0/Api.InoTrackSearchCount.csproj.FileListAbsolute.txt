@@ -1,0 +1,11 @@
+F:\Projects\InoTrackSearchCount\src\Api.InoTrackSearchCount\obj\Debug\netcoreapp2.0\Api.InoTrackSearchCount.csprojResolveAssemblyReference.cache
+F:\Projects\InoTrackSearchCount\src\Api.InoTrackSearchCount\obj\Debug\netcoreapp2.0\Api.InoTrackSearchCount.csproj.CoreCompileInputs.cache
+F:\Projects\InoTrackSearchCount\src\Api.InoTrackSearchCount\obj\Debug\netcoreapp2.0\Api.InoTrackSearchCount.AssemblyInfoInputs.cache
+F:\Projects\InoTrackSearchCount\src\Api.InoTrackSearchCount\obj\Debug\netcoreapp2.0\Api.InoTrackSearchCount.AssemblyInfo.cs
+F:\Projects\InoTrackSearchCount\src\Api.InoTrackSearchCount\bin\Debug\netcoreapp2.0\Api.InoTrackSearchCount.deps.json
+F:\Projects\InoTrackSearchCount\src\Api.InoTrackSearchCount\bin\Debug\netcoreapp2.0\Api.InoTrackSearchCount.runtimeconfig.json
+F:\Projects\InoTrackSearchCount\src\Api.InoTrackSearchCount\bin\Debug\netcoreapp2.0\Api.InoTrackSearchCount.runtimeconfig.dev.json
+F:\Projects\InoTrackSearchCount\src\Api.InoTrackSearchCount\bin\Debug\netcoreapp2.0\Api.InoTrackSearchCount.dll
+F:\Projects\InoTrackSearchCount\src\Api.InoTrackSearchCount\bin\Debug\netcoreapp2.0\Api.InoTrackSearchCount.pdb
+F:\Projects\InoTrackSearchCount\src\Api.InoTrackSearchCount\obj\Debug\netcoreapp2.0\Api.InoTrackSearchCount.dll
+F:\Projects\InoTrackSearchCount\src\Api.InoTrackSearchCount\obj\Debug\netcoreapp2.0\Api.InoTrackSearchCount.pdb
